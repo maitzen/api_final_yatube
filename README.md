@@ -12,8 +12,8 @@
 
 - **Создать и активировать виртуальное окружение:**
   ```sh
-  python -m venv env
-  source env/bin/activate
+  python -m venv venv
+  source venv/Scripts/activate
 
 - **Установить зависимости из requirements.txt:**
   ```sh
